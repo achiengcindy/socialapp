@@ -50,7 +50,7 @@
     "lodash": "^4.17.11",
     "markov": "0.0.7",
     "merge-stream": "^2.0.0",
-    "minimist": "^1.2.0",
+    "minimist": "^1.2.6",
     "run-sequence": "^2.2.1",
     "simple-transition": "^1.0.0",
     "throttle": "^1.0.3",
